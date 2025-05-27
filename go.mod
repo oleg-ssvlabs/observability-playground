@@ -1,4 +1,4 @@
-module github.com/ssvlabsinfra/observability-playground
+module github.com/oleg-ssvlabs/observability-playground
 
 go 1.23.2
 
